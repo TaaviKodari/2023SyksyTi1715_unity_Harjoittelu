@@ -506,3 +506,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 6.12
   controller: {fileID: 820084424}
+  mouseSpeed: 3
+  cursorLock: 1
